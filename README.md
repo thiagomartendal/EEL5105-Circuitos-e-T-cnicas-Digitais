@@ -1,1 +1,1 @@
-# EEL5105-Circuitos-e-T-cnicas-Digitais
+# EEL5105-Circuitos-e-Tecnicas-Digitais
